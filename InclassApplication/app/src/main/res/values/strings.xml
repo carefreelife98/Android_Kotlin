@@ -1,0 +1,8 @@
+<!--
+R.String.(name) 처럼 사용
+Key, Value 형태.
+-->
+<resources>
+    <string name="app_name">Inclass Application</string>
+    <string name="outStr">안녕, 안드로이드 %d</string>
+</resources>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Haegeumgang</string>
+
+    <string name="titleTextView">한국 가볼만한 </string>
+    <string name="subtitleTextView">거제 해금강</string>
+    <string name="mainImageViewDesc">거제 해금강 사</string>
+    <string name="mainBtn1">관광 정보</string>
+    <string name="mainBtn2">맛집 추천</string>
+    <string name="mainBtn3">찾아 가는 길</string>
+
+    <string name="desc_haegeumgang">
+        거제 해금강은 경상남도 거제시 남부면\n
+        한려해상국립공원에 있는 명승지이다.\n
+        1971년 대한민국 명승 제2호로 지정되었다.\n
+        북한의 금강산 해금강과 구분하기 위해\n
+        거제 해금강이라고 부른다.</string>
+
+    <string name="info">관광 정보</string>
+
+    <string name="info_next">다음</string>
+    <string name="info_previous">이전</string>
+    <string name="info_exit">X</string>
+
+
+    <string name="info_1">
+        거제 해금강(巨濟 海金剛, 영어: Haegeumgang Islets, Geoje)은 \n
+        경상남도 거제시 남부면, 한려해상국립공원에 있는 명승지이다. \n\n
+        1971년 대한민국 명승 제2호로 지정되었다.\n\n
+        보통 조선 민주주의 인민 공화국의 금강산 해금강과 구분을 하기 위해 \n
+        \'제2의 해금강\', \'거제 해금강\'이라고 부른다. \n\n
+        거제도에서 출발하는 유람선이 매일 운행하고 있으며,
+        \n외도와 해금강을 둘러보는 노선이다.</string>
+
+    <string name="info_2">거제도에서 가장 경치가 좋은 곳이다. \n\n
+        해금강은 두 개의 큰 \'갈도\' 바위섬이 서로 맞닿아 있고 \n
+        깎아 놓은 듯한 절벽의 경치가 매우 아름답다.\n\n
+        더할 나위 없이 아름다운 경치를 이루고 있다.</string>
+
+    <string name="info_3">거제 해금강은 ‘바다의 금강산’이라 불리며 그 모습이 각각 다르고 아름답다는 데서 그 이름이 붙여졌다.\n
+        해금강은 세 개의 큰 바위섬이 서로 맞닿은 섬으로, 이름처럼 그 자체가 거대한 자연의 조각품이다.\n
+        유람선을 타고 섬을 유유히 돌다보면 만나게 되는 경관은 깎아지른 절벽에 부딪치는 파도와 바람이 수많은 형상들을 만든 것이다.\n
+        그 중에서 백미는 신비로운 십자동굴. \n
+        거제 해금강은 생태적 보전가치가 높은 곳이기도 하지만 명승 제2호로 지정될 만큼 빼어난 경관이 끊임없이 많은 관광객들이 찾게 하는 것이다. \n
+        한려해상의 보석이라 부를 만한 해금강의 경관을 만날수 있다.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="MapExitButton">나가기</string>
+
+    <string name="RecommendationOfBestRestaurant">맛집 추천</string>
+    <string name="RestaurantName">거제 해금강 회 센터</string>
+    <string name="RestaurantInfo">
+        \n
+        주소: 경상남도 거제시 아주 1로 2길 31 \n\n
+
+        영업시간: \n
+        월요일	오전 11:00~오후 10:00 \n
+        화요일	오전 11:00~오후 10:00 \n
+        수요일	오전 11:00~오후 10:00 \n
+        목요일	오전 11:00~오후 10:00 \n
+        금요일	오전 11:00~오후 10:00 \n
+        토요일	오전 11:00~오후 10:00 \n
+        일요일	오전 11:00~오후 10:00 \n\n
+
+        연락처: 055-682-7676 \n
+    </string>
+
+    <string name="RestaurantReviewTextView">
+        \n
+        nannan ji 리뷰 99개·사진 41장 3달 전 \n
+        매장 내 식사  |  저녁 식사  |  ₩70,000~80,000 \n\n
+
+        금욜 저녁 검색해서 찾아간 해금강회센터 짱입니다! \n
+        배가 무지 고팠는데 회로 배를 채웠어요. \n
+        회로 가득 채워진 접시는 먹어도 먹어도 줄지 않는 마법이었어요. \n
+        맛도 쫄깃쫄깃. 신선. 다만 너무 사람이 많아서 정신이 없었어요. \n
+        그만큼 인기가 많아서 그렇겠지요.\n\n</string>
+
+    <string name="RestaurantExitButton">나가기</string>
+</resources>

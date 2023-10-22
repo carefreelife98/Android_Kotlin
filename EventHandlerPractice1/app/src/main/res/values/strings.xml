@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Event Handler Practice 1</string>
+    <string name="outStr">Method %d: dp=%d, px=%d</string>
+</resources>
