@@ -26,7 +26,6 @@ open class InfoActivity : MainActivity(), View.OnClickListener {
 //        infoBinding.previous.setOnClickListener(this)
         infoBinding.exitInfoButton.setOnClickListener(this)
 
-
         infoSet = Triple(
             Pair(infoBinding.infoView, infoBinding.infoTextView1),
             Pair(infoBinding.infoView2, infoBinding.infoTextView2),
@@ -40,18 +39,8 @@ open class InfoActivity : MainActivity(), View.OnClickListener {
     override fun onClick(v: View?) {
 //        Log.d(TAG, "onClick(v) = onClick($v)")
         when (v) {
-            infoBinding.next -> {
-//                Log.d(TAG, "onClick(v) = onClick($v)")
-                next()
-            }
-
-//            infoBinding.previous -> {
-//                previous()
-//            }
-
-            infoBinding.exitInfoButton -> {
-                finish()
-            }
+            infoBinding.next -> { next() }
+            infoBinding.exitInfoButton -> { finish() }
         }
     }
 
