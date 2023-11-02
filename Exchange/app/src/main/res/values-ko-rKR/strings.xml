@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="exchange_rate">1296.3</string>
+    <string name="convert_amount">환전 금액을 원화로 입력하세요.</string>
+    <string name="convert_dollar">환전금액(달러)</string>
+    <string name="convert">환전</string>
+    <string name="dollarPerWon">미 달러 당 원</string>
+</resources>
