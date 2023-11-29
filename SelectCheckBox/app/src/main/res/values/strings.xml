@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Select Check Box</string>
+    <string-array name="coffee_menus">
+        <item>Americano</item>
+        <item>Latte</item>
+        <item>Decaf</item>
+    </string-array>
+    <string-array name="planets_array">
+        <item>수성(Mercury)</item>
+        <item>금성(Venus)</item>
+        <item>지구(Earth)</item>
+        <item>화성(Mars)</item>
+        <item>목성(Jupiter)</item>
+        <item>토성(Saturn)</item>
+        <item>천왕성(Uranus)</item>
+        <item>명왕성(Neptune)</item>
+    </string-array>
+</resources>
